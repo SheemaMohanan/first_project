@@ -6,3 +6,5 @@ Here in this project I used HTML and Internal CSS. And I used some external link
 <li>https://www.keralatourism.org/ebrochures/</li>
 <li>https://www.keralatourism.org/visa-requirement/</li>
 <li>https://www.keralatourism.org/traveller/</li><ol> etc.
+![image](https://user-images.githubusercontent.com/108618663/201305913-f06c0093-869a-4eb2-9d78-44afb280c8f2.png)
+
